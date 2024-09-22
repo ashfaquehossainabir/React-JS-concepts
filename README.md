@@ -2,6 +2,7 @@
 
 This is a beginners React JS concepts that should be enough to get you started using the React Library. There are still many more hooks and concepts that are beyond the scope of the beginner level. These concepts should at least give you a solid foundation.
 
+<br/>
 
 List of concepts covered:
 
